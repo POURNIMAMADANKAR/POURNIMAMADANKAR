@@ -13,6 +13,30 @@
 
 ---
 
+
+### 🧰 My Dev Toolbox
+
+| Area            | Tools / Tech Stack                                   |
+|-----------------|------------------------------------------------------|
+| `Backend`       | PHP, OOP, REST APIs, MVC Patterns                    |
+| `Frontend`      | HTML5, CSS3, JavaScript (ES6+), DOM, Responsive UI   |
+| `Database`      | MySQL, Query Optimization, Relational Modeling       |
+| `Version Control` | Git, GitHub, Git Best Practices                    |
+| `Tools`         | VSCode, Postman, XAMPP, Composer, Chrome DevTools    |
+| `Soft Skills`   | Problem Solving, Debugging, Clear Documentation      |
+
+---
+
+### ✅ Open Source & Projects
+
+- 🛠️ Contributed meaningful PRs to PHP and JS repositories
+- 💡 Built mini projects demonstrating CRUD, AJAX, validation, and MVC
+- 📚 Wrote clean, reusable, and testable code
+- ✍️ Maintained detailed READMEs and meaningful commit messages
+
+---
+
+
 ### 🛠️ Languages and Tools:
 
 <p align="left">
