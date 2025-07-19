@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Laravel + Vue projects**
+- 🔭 I’m currently working on **Laravel Projects**
 - 🌱 I’m currently learning **Tailwind CSS, REST APIs & CI/CD**
 - 💬 Ask me about **PHP | Laravel | Ci3 | MySQL | JS | Git | APIs**
 - 📫 How to reach me: **[pournimamadankar@gmail.com](mailto:pournimamadankar@gmail.com)**
