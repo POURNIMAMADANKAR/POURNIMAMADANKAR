@@ -47,14 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=POURNIMAMADANKAR&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=POURNIMAMADANKAR&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ### 🌐 Connect with me:
 
