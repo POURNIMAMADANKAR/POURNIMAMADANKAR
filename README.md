@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### ✅ Open Source & Projects
-
-- 🛠️ Contributed meaningful PRs to PHP and JS repositories
-- 💡 Built mini projects demonstrating CRUD, AJAX, validation, and MVC
-- 📚 Wrote clean, reusable, and testable code
-- ✍️ Maintained detailed READMEs and meaningful commit messages
-
 ---
 
 
